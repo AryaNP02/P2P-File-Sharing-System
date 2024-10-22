@@ -7,10 +7,10 @@ This project is an implementation of a Peer-to-Peer File Sharing System.
 
 ### 1. **Go to the Required Directory**
 
-Navigate to the desired directory (either `client` or `server`) where your project files are located.
+Navigate to the desired directory (either `client` or `tracker`) where your project files are located.
 
 ```bash
-cd client  # or cd server
+cd client  # or cd tracker
 ```
 
 ### 2. **Make Tracker Info File**
